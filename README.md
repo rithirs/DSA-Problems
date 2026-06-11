@@ -1,4 +1,3 @@
-markdown
 # Striver A2Z DSA Solutions
 
 **Solutions to Striver's A2Z DSA Course / Sheet** in multiple programming languages.
@@ -12,7 +11,18 @@ This repository contains clean, well-commented solutions for **must-do pattern p
 - Java, JavaScript (planned)
 
 ## Folder Structure
-solutions/ ├── cpp/ │ ├── patterns/ │ ├── arrays/ │ ├── strings/ │ └── ... ├── python/ │ ├── patterns/ │ └── ... └── c/ └── ...
+solutions/
+├── cpp/
+│   ├── patterns/
+│   ├── arrays/
+│   ├── strings/
+│   └── ...
+├── python/
+│   ├── patterns/
+│   └── ...
+└── c/
+    └── ...
+
 ## Progress
 
 | Topic                  | C++ | Python | C   | Problems Solved |

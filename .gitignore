@@ -1,0 +1,18 @@
+C++
+
+*.exe
+*.out
+*.o
+
+Python
+
+pycache/
+*.pyc
+
+VS Code
+
+.vscode/
+
+macOS
+
+.DS_Store
